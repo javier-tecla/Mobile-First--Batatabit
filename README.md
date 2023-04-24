@@ -1,3 +1,3 @@
-# Maquetaci-n-Mobile-First---Batatabit
+Mobile-First-Batatabit
 
 https://javier-tecla.github.io/Mobile-First--Batatabit/
