@@ -1,0 +1,17 @@
+.body-main--container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    width: 930px;
+    margin: 0 auto;
+}
+.body-cards--container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+.plans-container--slider {
+    justify-content: center;
+}
